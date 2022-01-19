@@ -18,9 +18,9 @@
 ![My card name](https://cardivo.vercel.app/api?name=AKSHAY-SER&description=Hi,%20Welcome%20To%20My%20Profile%20💝&image=https://i.imgur.com/JIV7Dsc.jpeg.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=aks_sha_ser&github=4K5H475ER&twitter=&)
 
 
-<img src="https://github.com/4K5H475ER/4K5H475ER/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/4K5H475ER" />
+<img src="https://github.com/4K5H475ER/AKSHAY-SER/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/4K5H475ER" />
 
-<img src="https://github.com/4K5H475ER/4K5H475ER/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
+<img src="https://https://github.com/4K5H475ER/AKSHAY-SER/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
 
 </div>
 
